@@ -1,10 +1,9 @@
 # weather_exam_arcanys
 
-A new Flutter project.
+Weather Forecast App
 
-## Getting Started
+## Overview
+This was part of the technical interview of Arcanys when I was applying for
+flutter developer position.
 
-to run the app:
-- run "flutter pub get"
-- run "flutter packages pub run build_runner build --delete-conflicting-outputs"
-- run "flutter run"
+![DEMO](https://github.com/jpascasio1993/exam_weather_arcanys/blob/main/weather_app.mp4)
